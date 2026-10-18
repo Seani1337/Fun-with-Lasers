@@ -36,4 +36,4 @@ This system is relying on the same system, i´ve used in moving the laser forwar
 
 Because the lasers stays inside the block, i can have a second command block tower (so it´s little more ordered).
 
-The command blocks will now (again) test for "blackstone_stairs" with the "[facing=west/south/north/west]" data (because they´re only able to test for one direction, i took 4 of them to test for north, south,...). When they find the stairs, they´ll rotate the armor stand accordingly and a following command block without the "facing"-data teleports the armor stand` ^ ^ ^1` (in the direction it´s facing 1 block)
+The command blocks will now (again) test for "blackstone_stairs" with the "[facing=west/south/north/west]" data (because they´re only able to test for one direction, i took 4 of them to test for north, south,...). When they find the stairs, they´ll rotate the armor stand accordingly and a following command block without the "facing"-data teleports the armor stand` ^ ^ ^1` (in the direction it´s facing 1 block).
